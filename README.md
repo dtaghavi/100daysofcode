@@ -7,7 +7,7 @@ In addition to posting on Twitter I wanted to improve my discipline with using G
 Since I am limited to the number of characters on Twitter I will be posting a bit more of my thoughts and the things I went over at the end of the day
 here on Git Hub.
 
-Initially I will be working on "The Complete 2020 Web Developer Bootcamp" created by @LonderBrewer which I purchased from Udemy.
+Initially I will be working on "The Complete 2020 Web Developer Bootcamp" created by @LondonAppBrewer which I purchased from Udemy.
 
 From there I will take that knowledge and create my own CV. Afterwards I will decide what technologies / languages I would like a better understanding of or more information.
 
